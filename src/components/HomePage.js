@@ -18,18 +18,18 @@ export function HomePage() {
             </div>
             <div id="projects">
                 <h1 class="sectionTitle">PROJECTS</h1>
-                <Project projectRowStyle={"projectRow"} projectImage={"../spiral_notebook.jpg"} imgAltTag={"Image of the story board."} imgStyleID={"personasImage"} websiteLink={"https://boredbear123.github.io/cs1300-person-storyboard/"} buttonText={"VIEW PROCESS"} projectTitle={"PERSONAS & STORYBOARDING"} description={"Focused on the interface of a dorm microwave. Created personas, to describe potential users, and a storyboard to outline a common interaction  users may have with the interface. "}></Project>
+                <Project projectRowStyle={"projectRow"} projectImage={"spiral_notebook.jpg"} imgAltTag={"Image of the story board."} imgStyleID={"personasImage"} websiteLink={"https://boredbear123.github.io/cs1300-person-storyboard/"} buttonText={"VIEW PROCESS"} projectTitle={"PERSONAS & STORYBOARDING"} description={"Focused on the interface of a dorm microwave. Created personas, to describe potential users, and a storyboard to outline a common interaction  users may have with the interface. "}></Project>
 
                 <Project projectRowStyle={"projectRowReverse"} projectImage={"Caliente Redesign.jpg"} imgAltTag={"Image of the Caliente Redesign on different screen sizes."} imgStyleID={"calientesImage"} websiteLink={"https://boredbear123.github.io/responsive_redesign_submission/"} buttonText={"VIEW PROCESS"} projectTitle={"CALIENTES REDESIGN"} description={"Created a responsive redesign of the Calientes Mexican Grille website to enhance readability and accessibility. "}></Project>
-                <Project projectRowStyle={"projectRow"} projectImage={"/iterativeDesign.jpg"} imgAltTag={"Image of the Novig webstie on a laptop."} imgStyleID={"calientesImage"} websiteLink={"https://www.figma.com/proto/7HOfRo6Q77w6tVwlqVKFxT/Iterative-Design?node-id=1%3A4&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A4"} buttonText={"VISIT WEBSITE"} projectTitle={"ITERATIVE DESIGN"} description={"Iteratively desgined a sports betting website based off feedback from fellow designers."}></Project>
-                <Project projectRowStyle={"projectRowReverse"} projectImage={"/developmentImage.jpg"} imgAltTag={"Image of the sneaker website one a laptop."} imgStyleID={"calientesImage"} websiteLink={"https://boredbear123.github.io/development/"} buttonText={"VISIT WEBSITE"} projectTitle={"WEBSITE DEVELOPMENT"} description={"Devloped an interactive online store for Air Jordan Sneakers, where you can filter and sort the products, and even add sneakers to your cart."}></Project>
+                <Project projectRowStyle={"projectRow"} projectImage={"iterativeDesign.jpg"} imgAltTag={"Image of the Novig webstie on a laptop."} imgStyleID={"calientesImage"} websiteLink={"https://www.figma.com/proto/7HOfRo6Q77w6tVwlqVKFxT/Iterative-Design?node-id=1%3A4&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A4"} buttonText={"VISIT WEBSITE"} projectTitle={"ITERATIVE DESIGN"} description={"Iteratively desgined a sports betting website based off feedback from fellow designers."}></Project>
+                <Project projectRowStyle={"projectRowReverse"} projectImage={"developmentImage.jpg"} imgAltTag={"Image of the sneaker website one a laptop."} imgStyleID={"calientesImage"} websiteLink={"https://boredbear123.github.io/development/"} buttonText={"VISIT WEBSITE"} projectTitle={"WEBSITE DEVELOPMENT"} description={"Devloped an interactive online store for Air Jordan Sneakers, where you can filter and sort the products, and even add sneakers to your cart."}></Project>
 
             </div>
             <div id="aboutMe">
                 <h1 class="sectionTitle">ABOUT ME</h1>
                 <div id="aboutMeBlock">
                     <div id="aboutMeContent">
-                        <img id="aboutMeImg" src="/boredBearAnimation.jpg" />
+                        <img id="aboutMeImg" src="boredBearAnimation.jpg" />
                         <div id="aboutMeInfo">
                             <p id="aboutMeText">I'M A VISUAL WEB DESIGNER FOCUSED ON CREATING EFFICIENT AND ACCESSIBLE INTERFACES.
                             </p>
